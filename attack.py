@@ -1,7 +1,7 @@
 import asyncio
 import aiohttp
 
-URL = "https://srkpgcollege.com"
+URL = "https://example.com"
 TOTAL_REQUESTS = 10000
 CONCURRENCY = 200
 
